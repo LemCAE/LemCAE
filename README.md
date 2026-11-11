@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 
 
 这里是 LemCAE，在读本科生。
 
